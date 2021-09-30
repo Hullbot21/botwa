@@ -1981,10 +1981,10 @@ break
 │• Level : ${getLevelingLevel(sender)}
 │• Prefix : ${prefix}
 │
-│• YouTube : Herman Chanel
-│• Instagram : cal_me_herman
-│• Tik Tok : cal_me_herman
-│• Nomor Owner : wa.me/6283146208804
+│• YouTube : -
+│• Instagram : arifsh_21
+│• Tik Tok : -
+│• Nomor Owner : wa.me/6289667090665
 ╰────
 
 ╭──❲ MAIN ❳
@@ -2017,7 +2017,7 @@ break
 ╰────
 
 ╭─「 Join Group 」
-│• https://chat.whatsapp.com/L9HTjy9FBJIBm3SfQS1pE5
+│• https://chat.whatsapp.com/CdfDihpvOOmFPCbuW7EIk7
 ╰────
 
 ╭──❲ DATABASE ❳
